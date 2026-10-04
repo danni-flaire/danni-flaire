@@ -12,7 +12,7 @@ I build, break, analyze, and optimize intelligent architectures. Currently engin
 #  Tech Stack
 
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,mysql,javascript,anaconda,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,postgresql,javascript,go)](https://skillicons.dev)
 
 #### Backend & Tools
 [![My Skills](https://skillicons.dev/icons?i=fastapi,flask,sequelize)](https://skillicons.dev)
