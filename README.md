@@ -5,7 +5,7 @@
 ### AI/ML Engineer
 > **Build → Break → Learn → Repeat.**
 
-I build, break, analyze, and optimize intelligent architectures. Currently engineering systems with **Python, AI/ML, Data Science, and Backend Software Engineering.**
+I build, break, analyze, and optimize intelligent architectures and infrstructure. Currently engineering systems with **Python, Go, AI/ML, Data Science, Backend Software Engineering, Infra and Cloud.**
 
 ---
 
@@ -20,7 +20,7 @@ I build, break, analyze, and optimize intelligent architectures. Currently engin
 ---
 
 ## Currently Focusing On
-* **Intelligent Systems:** Exploring LLMs, AI agents, and computer vision.
+* **Intelligent Systems and Infrastructure :** Exploring LLMs, AI agents, infra and cloud computing
 * **Production Engineering:** Writing robust, scalable, production-level code.
 
 ##  What's Here
