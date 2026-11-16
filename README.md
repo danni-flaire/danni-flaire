@@ -1,20 +1,13 @@
                       
                                                                                                               
 
-# Hey, I'm Daniel Akinlabi
+# Hey, I'm AKINLABI DANIEL - Danni Flaire
 ### AI/ML Engineer
-> **Build → Break → Learn → Repeat.**
-
-I build, break, analyze, and optimize intelligent architectures and infrstructure. Currently engineering systems with **Python, Go, AI/ML, Data Science, Backend Software Engineering, Infra and Cloud.**
-
----
-
-#  Tech Stack
 
 #### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,postgresql,javascript,go)](https://skillicons.dev)
 
-#### Backend & Tools
+#### Tools
 [![My Skills](https://skillicons.dev/icons?i=fastapi,flask,sequelize)](https://skillicons.dev)
 
 ---
