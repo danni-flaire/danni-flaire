@@ -5,7 +5,7 @@
 ### AI/ML Engineer
 
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,postgresql,javascript,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,postgresql,javascript,go,vue)](https://skillicons.dev)
 
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=fastapi,flask,sequelize)](https://skillicons.dev)
